@@ -1,5 +1,5 @@
 # Marketing_Campaign_Analysis
-This project involves analyzing a marketing campaign dataset for 2,240 customers using Python for data cleaning and preprocessing, MySQL for querying, and Power BI for visualization. Key analyses include:
+This project involves analyzing a marketing campaign dataset for 2,240 customers using MySQL for data analysis, and querying, and Power BI for visualization. Key analyses include:
 1.	Customer Demographic Analysis: Visualized customer age, income distribution, marital status, and education level.
 2.	Campaign Effectiveness Analysis: Evaluated overall and campaign-wise response rates.
 3.	Recency and Frequency Analysis: Assessed the impact of recency and purchase frequency on campaign responses.
